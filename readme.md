@@ -31,8 +31,8 @@ A responsive, business website consisting of two parts: agency and portfolio pag
 
 ### Links
 
-- Source code repository URL: [Github](https://github.com/basiacarvalho/goit-webstudio)
-- Live Site URL: [Live Demo](https://basiacarvalho.github.io/goit-webstudio/)
+- Source code repository URL: [Github](https://github.com/basiacarvalho/goit-my-project-webstudio)
+- Live Site URL: [Live Demo](https://basiacarvalho.github.io/goit-my-project-webstudio/)
 
 ### Visuals
 
